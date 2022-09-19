@@ -1,0 +1,126 @@
+img {
+    margin: auto;
+    width: 900px;
+    border: pink;
+    border-style: groove;
+    border-width: 50px;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.beac{
+    width: 900px;
+}
+
+.countryTitle {
+    font-size: 100px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: pink;
+    background-color: rgb(238, 130, 214);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.countryBio {
+    font-size: 60px;
+    margin: auto;
+    border-radius: 5px;
+    border-width: 10px;
+    border-style: ridge;
+    text-align: center;
+    color:black;
+    background-color: plum;
+    border-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url(/images/17274610.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    text-align: center;
+    font-size: 50px;
+    border-width: 5px;
+    border-style: groove;
+    list-style: none;
+    background-color: rgb(255, 152, 152);
+    color: black;
+    border-color: pink;
+    margin: auto;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul>li>a:hover{
+    background-color: rgb(255, 170, 0);
+    
+}
+
+.okinawafactbody{
+    background-image: url(/images/gettyimages-130963804.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.okinawatitle{
+    font-size: 100px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(255, 145, 0);
+    background-color: rgb(0, 247, 255);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(255, 136, 0);
+    background-color: rgb(0, 255, 255);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.picfac{
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(255, 136, 0);
+    background-color: rgb(0, 255, 255);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.okiman{
+    text-align: center;
+    font-size: 50px;
+    border-width: 5px;
+    border-style: groove;
+    list-style: none;
+    background-color: rgb(255, 115, 0);
+    color: black;
+    border-color: rgb(0, 255, 255);
+    margin: auto;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
