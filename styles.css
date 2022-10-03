@@ -124,3 +124,126 @@ h2{
     display: block;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.osakatitle{
+    font-size: 100px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.osakatitlefact{
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.picfaco{
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.osakafactbody{
+    background-image: url(/images/osaka\ at\ night.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.osakapic{
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+}
+.osakanav{
+    text-align: center;
+    font-size: 50px;
+    border-width: 5px;
+    border-style: groove;
+    list-style: none;
+    background-color: rgb(7, 120, 148);
+    color: black;
+    border-color: rgb(18, 10, 138);
+    margin: auto;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hokktitle{
+    font-size: 100px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.hokktitlefact{
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pichokk{
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    border-width: 50px;
+    border-style: groove;
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hokkfactbody{
+    background-image: url(/images/hokkaido.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.hokkpic{
+    border-color: rgb(18, 10, 138);
+    background-color: rgb(7, 120, 148);
+}
+.hokkanav{
+    text-align: center;
+    font-size: 50px;
+    border-width: 5px;
+    border-style: groove;
+    list-style: none;
+    background-color: rgb(7, 120, 148);
+    color: black;
+    border-color: rgb(18, 10, 138);
+    margin: auto;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
