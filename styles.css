@@ -191,8 +191,8 @@ h2{
     margin: auto;
     border-width: 50px;
     border-style: groove;
-    border-color: rgb(18, 10, 138);
-    background-color: rgb(7, 120, 148);
+    border-color: rgb(124, 124, 124);
+    background-color: rgb(136, 224, 205);
     color: rgb(0, 0, 0);
     display: block;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -204,8 +204,8 @@ h2{
     margin: auto;
     border-width: 50px;
     border-style: groove;
-    border-color: rgb(18, 10, 138);
-    background-color: rgb(7, 120, 148);
+    border-color: rgb(124, 124, 124);
+    background-color: rgb(136, 224, 205);
     color: rgb(0, 0, 0);
     display: block;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -216,8 +216,8 @@ h2{
     margin: auto;
     border-width: 50px;
     border-style: groove;
-    border-color: rgb(18, 10, 138);
-    background-color: rgb(7, 120, 148);
+    border-color: rgb(124, 124, 124);
+    background-color: rgb(136, 224, 205);
     color: rgb(0, 0, 0);
     display: block;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -231,8 +231,8 @@ h2{
 
 
 .hokkpic{
-    border-color: rgb(18, 10, 138);
-    background-color: rgb(7, 120, 148);
+    border-color: rgb(124, 124, 124);
+    background-color: rgb(136, 224, 205);
 }
 .hokkanav{
     text-align: center;
@@ -240,9 +240,9 @@ h2{
     border-width: 5px;
     border-style: groove;
     list-style: none;
-    background-color: rgb(7, 120, 148);
+    background-color: rgb(124, 124, 124);
     color: black;
-    border-color: rgb(18, 10, 138);
+    border-color: rgb(136, 224, 205);
     margin: auto;
     display: block;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
